@@ -7,9 +7,9 @@ published: true
 
 By using ++ and -- we can increase and decrease the value of a numerical variable.
 
-In the example below we will decrease and increase the values.
+In the example below we will decrease and increase the values of "gainedDollar" and "lostDollar".
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
 
 ```javascript
 let gainedDollar = 5;
@@ -21,6 +21,3 @@ lostDollar--;
 console.log(lostDollar);
 
 ```
-
-
-
