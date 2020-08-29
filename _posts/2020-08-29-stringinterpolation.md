@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## String interpolation.  Make strings easier to read going through code.
 
