@@ -1,11 +1,6 @@
 ---
 published: true
 ---
-
-matt501 / matt501.github.io
-You're up and running!
-Published
-h2h3B
 ## Increasing and decreasing varibles and values.
 ​
 By using ++ and -- we can increase and decrease the value of a numerical variable.
