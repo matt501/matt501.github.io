@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Typeof."
-date:   2020-08-30 
+date: 2020-08-30 14:31:27 +0100
 permalink: /stringtoanumber/
 categories: javascript
 ---
