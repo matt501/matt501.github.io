@@ -9,6 +9,8 @@ categories: javascript
 Using Boolean expressions (true/false) inside conditionals (if/else). 
 Thanks to conditionals, programs can respond differently based on different inputs and parameters.
 
+Here there is a variable created named sale.  The sale is true, but then the sale is false further down.  
+
 
 ```javascript
 let sale = true;   //sale is on
