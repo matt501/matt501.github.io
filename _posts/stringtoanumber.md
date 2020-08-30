@@ -12,8 +12,8 @@ Use typeof to find the data type of the resulting value when you concatenate var
 
 '''javascript
   let newVariable = 'Playing around with typeof.';
-  console.log(typeof newVariable);    //STRING
+  console.log(typeof newVariable);     //STRING
 
   newVariable = 1;
-  console.log(typeof newVariable);    //NUMBER
+  console.log(typeof newVariable);     //NUMBER
 '''
