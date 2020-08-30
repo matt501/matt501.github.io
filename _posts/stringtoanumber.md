@@ -2,7 +2,7 @@
 layout: post
 title:  "Typeof."
 date:   2020-08-30 
-permalink: /stringtonumber/
+permalink: /stringtoanumber/
 categories: javascript
 ---
 
