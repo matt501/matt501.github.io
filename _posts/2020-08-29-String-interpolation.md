@@ -7,8 +7,8 @@ Simply by placing a dollar sign in front of the variabes declared below, Matt an
 they are output in the console screen you can confirm what is being loaded in and output.
 
 
-'''javascript
+```javascript
 let myName='Matt';  
 let myCity='Manchester';  
 console.log(`My name is ${myName}. My favorite city is ${myCity}.`);
-'''
+```
