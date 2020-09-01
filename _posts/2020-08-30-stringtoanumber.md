@@ -7,7 +7,9 @@ categories: javascript
 ---
 
 Find the data type of a variable’s value using the typeof keyword on a variable.
-Use typeof to find the data type of the resulting value when you concatenate variables containing two different data types.
+
+Using typeof simply tells us what type of data the variable is.
+The output below lists a string and a number.
 
 
 ```javascript
